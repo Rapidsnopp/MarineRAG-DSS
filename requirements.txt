@@ -1,0 +1,27 @@
+# Core RAG and LLM dependencies
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-community>=0.3.0
+langchain-ollama>=0.2.0
+
+# Vector store
+faiss-cpu>=1.9.0
+
+# Embeddings (local)
+sentence-transformers>=3.3.0
+
+# Document loading
+pypdf>=4.3.0
+unstructured>=0.16.0
+
+# Web interface
+streamlit>=1.40.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.9.0
+pydantic-settings>=2.6.0
+
+# Testing
+pytest>=8.3.0
+pytest-mock>=3.14.0

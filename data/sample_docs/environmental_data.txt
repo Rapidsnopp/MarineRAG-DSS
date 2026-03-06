@@ -1,0 +1,82 @@
+MARINE ENVIRONMENTAL PROTECTION AND MANAGEMENT DATA
+=====================================================
+
+1. OCEAN TEMPERATURE AND CLIMATE DATA
+--------------------------------------
+Sea surface temperatures in the North Atlantic have increased by approximately
+1.2°C over the past century, with accelerating warming trends since the 1980s.
+Warming oceans lead to coral bleaching events, shifts in species distribution,
+and changes in ocean circulation patterns.
+
+Key environmental indicators monitored include:
+- Sea surface temperature (SST): measured via satellite and buoy networks
+- Ocean acidification (pH): current average surface ocean pH is approximately 8.1,
+  down from 8.2 in pre-industrial times due to CO₂ absorption
+- Dissolved oxygen levels: hypoxic zones (< 2 mg/L) have increased in area by 40%
+  since the 1960s
+- Chlorophyll-a concentration: used as a proxy for phytoplankton biomass and
+  primary productivity
+
+2. MARINE PROTECTED AREAS (MPAs)
+----------------------------------
+Marine Protected Areas are designated zones where human activities are restricted
+to protect marine ecosystems. As of 2023, approximately 8% of the global ocean
+is covered by some form of MPA designation, with the target of 30% by 2030
+under the Kunming-Montreal Global Biodiversity Framework (30x30 target).
+
+Classification of MPAs:
+- No-take zones: all extractive activities (fishing, mining) are prohibited
+- Partial protection areas: some activities allowed with restrictions
+- Seasonal closures: areas closed during critical periods (spawning seasons)
+
+Major MPA zones in the study region:
+- Zone Alpha (Coordinates: 45°N–55°N, 10°W–20°W): no-take marine reserve,
+  protecting deep-sea coral ecosystems and spawning grounds
+- Zone Beta (Coordinates: 35°N–45°N, 5°W–15°W): partial protection zone,
+  allowing sustainable small-scale fishing
+- Zone Gamma (Coordinates: 25°N–35°N, 0°–10°W): seasonal closure from
+  March 1 to June 30 annually for sea turtle nesting and spawning protection
+
+3. WATER QUALITY STANDARDS
+----------------------------
+Acceptable water quality parameters for marine ecosystems:
+- Temperature: 4°C – 30°C (species-specific tolerances vary)
+- Salinity: 30–38 PSU (practical salinity units) for open ocean
+- pH: 7.8 – 8.3 (acidification below 7.8 is harmful to shellfish)
+- Nitrate (NO₃): < 50 μmol/L; excess leads to eutrophication
+- Phosphate (PO₄): < 2 μmol/L in coastal areas
+- Turbidity: < 2 NTU in coral reef environments
+
+4. POLLUTION AND CONTAMINATION MONITORING
+-------------------------------------------
+Pollution sources affecting marine environments:
+- Agricultural runoff: excess nitrogen and phosphorus causing hypoxic zones
+- Plastic debris: estimated 8 million metric tons enter the ocean annually;
+  microplastics detected in 100% of sampled marine mammals in recent studies
+- Oil spills: average 1.8 million metric tons of petroleum enter the ocean
+  per year from operational discharges and accidents
+- Noise pollution: commercial shipping and sonar activities disrupt marine
+  mammal communication and navigation
+
+5. ECOSYSTEM HEALTH INDICATORS
+--------------------------------
+Key metrics for ecosystem health assessment:
+- Biodiversity index (Shannon–Wiener H'): values > 2.5 indicate healthy diversity
+- Coral cover percentage: healthy reefs typically show > 30% live coral cover
+- Seagrass meadow extent: seagrass provides nursery habitat for 20% of
+  commercially important fish species
+- Apex predator abundance: shark and large tuna populations serve as
+  indicators of ecosystem health
+
+6. CLIMATE PROJECTIONS FOR MARINE SYSTEMS
+------------------------------------------
+Under IPCC SSP2-4.5 (intermediate emissions) scenario projections to 2100:
+- Sea level rise: 0.4 – 0.6 m above 2000 levels
+- Ocean warming: additional 1.5 – 2.5°C in upper 100 m
+- Ocean acidification: pH decrease of 0.2 – 0.3 units
+- Projected range shifts: 65% of marine species expected to shift poleward
+  by an average of 72 km per decade
+
+These environmental changes require adaptive management strategies that
+consider both current conditions and future projections in all fisheries
+and marine resource management decisions.

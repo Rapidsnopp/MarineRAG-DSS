@@ -1,0 +1,194 @@
+FISHERIES DATA AND STOCK ASSESSMENT REFERENCE GUIDE
+====================================================
+
+1. GLOBAL FISHERIES OVERVIEW
+------------------------------
+Global marine capture fisheries production reached approximately 80–90 million
+tonnes per year in recent years. According to the FAO (Food and Agriculture
+Organization of the United Nations) State of World Fisheries and Aquaculture
+(SOFIA) 2022 report:
+
+- 57.3% of marine fish stocks are fished at biologically sustainable levels
+- 35.4% are overfished (above maximum sustainable yield)
+- 7.2% are underfished
+
+Top fishing nations by volume (marine capture, million tonnes):
+1. China: ~15 million tonnes
+2. Indonesia: ~7.0 million tonnes
+3. Peru: ~5.9 million tonnes
+4. Russia: ~5.1 million tonnes
+5. United States: ~4.9 million tonnes
+
+Top commercially important species globally:
+- Anchoveta (Engraulis ringens): largest single-species catch (~7–8 Mt/year)
+- Alaska pollock (Gadus chalcogrammus): ~3.5 Mt/year
+- Atlantic herring (Clupea harengus): ~1.8 Mt/year
+- Blue whiting (Micromesistius poutassou): ~1.5 Mt/year
+- Atlantic mackerel (Scomber scombrus): ~1.0 Mt/year
+
+2. STOCK ASSESSMENT METHODS
+-----------------------------
+Scientific stock assessments evaluate the status of fish populations and
+form the basis for fisheries management advice.
+
+Key assessment approaches:
+- Surplus production models (e.g., Schaefer model, Fox model): use total
+  catch and effort data to estimate stock biomass and fishing mortality
+- Age-structured models (VPA, SAM, SS3): use catch-at-age data and
+  surveys to estimate population dynamics parameters
+- CPUE (Catch Per Unit Effort): standardised index of stock abundance;
+  declining CPUE indicates stock depletion
+- Acoustic surveys: hydroacoustic surveys provide direct biomass estimates
+  for pelagic species (herring, mackerel, sprat)
+
+Reference points used in management:
+- MSY (Maximum Sustainable Yield): theoretical maximum catch maintainable
+  indefinitely from a stock
+- Bmsy: stock biomass at which MSY is achieved
+- Fmsy: fishing mortality rate at which MSY is achieved
+- Blim: minimum stock size below which recruitment may be impaired
+- Bpa: precautionary biomass reference point (typically 1.4 × Blim)
+- Flim: fishing mortality causing stock collapse
+- Fpa: precautionary fishing mortality (typically = Fmsy or lower)
+
+Stock status indicators:
+- B/Bmsy > 1.0: stock is above target biomass (healthy)
+- B/Bmsy 0.5–1.0: stock is depleted but recovering
+- B/Bmsy < 0.5: stock is severely depleted
+- F/Fmsy < 1.0: fishing mortality below target (sustainable)
+- F/Fmsy > 1.0: overfishing is occurring
+
+3. MAJOR COMMERCIAL FISH SPECIES – PROFILES
+---------------------------------------------
+
+ATLANTIC COD (Gadus morhua):
+- Distribution: North Atlantic from eastern North America to northwestern Europe
+- Maximum size: ~150 cm, ~40 kg; typical commercial size 50–100 cm
+- Age at maturity: 2–4 years depending on population
+- Spawning: January–April; spawning aggregations form in specific areas
+- Diet: carnivorous; feeds on capelin, herring, invertebrates
+- Status (Northeast Arctic stock): above Bpa; F below Fmsy — healthy
+- Status (Celtic Sea stock): below Blim — critically depleted; emergency
+  management measures in effect
+- Quota: Northeast Arctic cod TAC = 453,000 tonnes (2024)
+
+ATLANTIC HERRING (Clupea harengus):
+- Distribution: North Atlantic and Baltic Sea
+- Maximum size: ~45 cm, ~700 g
+- Spawning: varies by stock; spring or autumn spawners
+- Highly migratory; forms large schools
+- Status (Norwegian Spring Spawning stock): above Bpa; sustainable
+- TAC (Norwegian Spring Spawning, 2024): 316,000 tonnes shared among
+  Norway, Iceland, Faroe Islands, Russia, EU
+
+EUROPEAN HAKE (Merluccius merluccius):
+- Distribution: Northeast Atlantic, Mediterranean Sea
+- Maximum size: ~140 cm; maximum age ~20 years
+- Age at maturity: 2–3 years
+- Deep-water species; migrates vertically; adults found at 200–1000 m depth
+- Status (Northern stock): recovering; currently above Bpa
+- TAC (Northern stock, 2024): 103,700 tonnes
+
+BLUEFIN TUNA (Thunnus thynnus):
+- Distribution: entire Atlantic Ocean and Mediterranean Sea; highly migratory
+- Maximum size: ~300 cm, ~680 kg; maximum age ~40 years
+- Age at maturity: 8–12 years
+- Trans-oceanic migrations between feeding and spawning grounds
+- Status (Eastern stock): recovering; biomass increasing due to quota cuts
+- Status (Western stock): still below Bmsy; under rebuilding plan
+
+ATLANTIC SALMON (Salmo salar):
+- Anadromous species: spawns in freshwater, adults live in ocean
+- Populations declining across most of range due to habitat loss,
+  overexploitation, sea lice from aquaculture, and climate change
+- Wild salmon catch subject to strict limitations; most commercial
+  production from aquaculture (Norway produces ~1.4 Mt/year)
+
+4. FISHING GEAR TYPES AND SELECTIVITY
+---------------------------------------
+Different gear types have different selectivity characteristics and
+ecosystem impacts:
+
+Bottom trawl:
+- Targets demersal species (cod, haddock, flatfishes, Nephrops)
+- High bycatch potential; bottom contact causes seafloor disturbance
+- Mesh size regulations determine size selectivity
+
+Pelagic trawl:
+- Targets mid-water and surface schooling species (herring, mackerel, sprat)
+- Lower bycatch than bottom trawls; minimal bottom contact
+
+Longline:
+- Fixed gear with baited hooks; high target species selectivity
+- Concerns: seabird and sea turtle bycatch; requires bird-scaring devices
+  and circle hooks to mitigate
+
+Purse seine:
+- Encircles schools of pelagic fish with a net wall, then closes the bottom
+- Very efficient for schooling species (tuna, sardine, herring)
+- Can attract non-target species; FAD (fish aggregating device) use
+  increases bycatch of juvenile tunas and non-target species
+
+Gillnet:
+- Passive gear; fish are caught by gilling or tangling in the net
+- Size selective based on mesh size; risk of ghost fishing if lost
+- Cetacean bycatch is a major concern; acoustic deterrents (pingers) required
+
+Pot/Trap:
+- Highly selective passive gear for crustaceans (lobster, crab, Nephrops)
+- Low ecosystem impact; good survival rates for non-target species
+
+5. AQUACULTURE PRODUCTION DATA
+--------------------------------
+Global aquaculture (freshwater and marine) contributes approximately
+50% of all fish consumed by humans:
+
+Marine aquaculture key species (global production):
+- Pacific cupped oyster (Crassostrea gigas): ~5.5 Mt/year
+- Atlantic salmon (Salmo salar): ~2.7 Mt/year
+- Sea bass & sea bream (Mediterranean species): ~0.5 Mt/year
+- Shrimp (various Penaeus species): ~6 Mt/year (largely brackish)
+- Mussels (Mytilus species): ~2.1 Mt/year
+
+Aquaculture sustainability concerns:
+- Feed conversion ratios (FCR): salmon requires ~1.2–1.5 kg feed per kg
+  of live weight gain when fed modern low-fishmeal diets
+- Fish meal and fish oil: ingredient sustainability; shift toward
+  plant-based and novel protein sources (insect meal, single-cell protein)
+- Sea lice (Lepeophtheirus salmonis): major parasite in salmon farming;
+  requires integrated pest management
+- Escapes: genetic interactions with wild populations; require containment
+
+6. FISHERIES ECONOMIC DATA
+----------------------------
+Economic value of global marine fisheries:
+- First-sale value of marine capture production: ~$130–150 billion/year
+- Employment: ~600 million people depend on fisheries and aquaculture
+  for their livelihoods (directly and indirectly)
+- Food security: fish provides > 20% of per-capita animal protein intake
+  for 3.3 billion people worldwide
+
+Economic reference points in management:
+- MEY (Maximum Economic Yield): fishing effort level that maximises
+  long-term profit; typically 70–80% of MSY effort level
+- Open access equilibrium: without management, effort expands until
+  economic profits are driven to zero (dissipates economic rent)
+- ITQ systems (Individual Transferable Quotas): market-based mechanisms
+  that can improve economic efficiency and reduce overcapacity
+
+7. ECOSYSTEM-BASED FISHERIES MANAGEMENT (EBFM)
+------------------------------------------------
+EBFM considers fisheries within the broader ecosystem context:
+
+- Trophic interactions: account for predator-prey relationships when
+  setting harvest levels; avoid removal of key forage fish species
+  (anchovies, capelin, sand lance) that are critical food sources for
+  whales, seabirds, and larger predatory fish
+- Habitat protection: protect essential fish habitat (EFH) from
+  destructive fishing practices, especially nursery areas and spawning grounds
+- Biodiversity: maintain community diversity; avoid targeted removal of
+  low-productivity, long-lived species
+- Climate adaptation: incorporate climate projections into stock assessments
+  and harvest control rules to improve long-term stock sustainability
+- Cumulative impacts: consider all human pressures on ecosystems
+  (fishing, pollution, offshore energy, shipping) in management plans

@@ -1,0 +1,133 @@
+INTERNATIONAL AND NATIONAL MARINE LAWS AND REGULATIONS
+=======================================================
+
+1. UNITED NATIONS CONVENTION ON THE LAW OF THE SEA (UNCLOS)
+-------------------------------------------------------------
+UNCLOS (1982) is the primary international framework governing the use of
+the world's oceans. It establishes the rights and responsibilities of
+nations with respect to their use of the world's oceans.
+
+Key jurisdictional zones under UNCLOS:
+- Territorial Sea (0–12 nautical miles): coastal state exercises full
+  sovereignty; foreign vessels have right of innocent passage
+- Contiguous Zone (12–24 nautical miles): coastal state may enforce laws
+  relating to customs, taxation, immigration, and pollution
+- Exclusive Economic Zone (EEZ, 12–200 nautical miles): coastal state has
+  sovereign rights for exploring, exploiting, conserving, and managing
+  natural resources; other states have freedom of navigation and overflight
+- Continental Shelf: coastal state has rights over the seabed and subsoil
+  beyond the EEZ up to 350 nautical miles in some circumstances
+- High Seas (beyond 200 nautical miles): open to all states; governed by
+  flag state jurisdiction
+
+Article 61 – Conservation of living resources (EEZ):
+The coastal State shall determine the allowable catch of the living
+resources in its EEZ. The coastal State, taking into account the best
+scientific evidence available, shall ensure through proper conservation and
+management measures that the maintenance of the living resources in the EEZ
+is not endangered by over-exploitation.
+
+Article 119 – Conservation of living resources of the high seas:
+States shall take measures based on scientific data to maintain or restore
+target species populations at levels which can produce maximum sustainable
+yield (MSY).
+
+2. CONVENTION ON BIOLOGICAL DIVERSITY (CBD)
+--------------------------------------------
+The CBD (1992) has three main objectives:
+- Conservation of biological diversity
+- Sustainable use of its components
+- Fair and equitable sharing of benefits arising from genetic resources
+
+Kunming-Montreal Framework (2022) – Key marine targets:
+- Target 3 (30×30): Protect at least 30% of global ocean area by 2030
+- Target 2: Restore 30% of degraded marine and coastal ecosystems
+- Target 7: Reduce pollution, including excess nutrients and pesticides,
+  to levels not harmful to biodiversity
+
+3. INTERNATIONAL WHALING COMMISSION (IWC) REGULATIONS
+------------------------------------------------------
+The International Convention for the Regulation of Whaling (1946) established
+the IWC with powers to regulate all aspects of whaling.
+
+Current status:
+- Commercial whaling moratorium in effect since 1986 (Schedule paragraph 10(e))
+- Aboriginal subsistence whaling allowed for specific indigenous communities
+- Scientific whaling: limited permits issued under Article VIII of the convention
+- Cetacean sanctuaries: Southern Ocean Sanctuary (1994) and Indian Ocean
+  Sanctuary (1979) prohibit all commercial whaling within their boundaries
+
+4. REGIONAL FISHERIES MANAGEMENT ORGANIZATIONS (RFMOs)
+-------------------------------------------------------
+RFMOs manage fish stocks in international waters:
+
+ICES (International Council for the Exploration of the Sea):
+- Provides scientific advice for the North Atlantic and adjacent seas
+- Stock assessments conducted annually; precautionary approach reference
+  points (Blim, Bpa, Flim, Fpa) defined for each managed stock
+
+ICCAT (International Commission for the Conservation of Atlantic Tunas):
+- Manages Atlantic tunas and tuna-like species
+- Current Bluefin tuna quotas: Eastern stock TAC = 36,000 tonnes/year;
+  Western stock TAC = 2,350 tonnes/year (effective 2024)
+- Minimum size limits: Atlantic Bluefin Tuna 115 cm curved fork length
+
+NAFO (Northwest Atlantic Fisheries Organization):
+- Manages fisheries resources in the Northwest Atlantic outside 200 nm EEZs
+- Mesh size requirements: minimum 130 mm for groundfish trawls
+- Observer coverage: 100% observer coverage required in NAFO Regulatory Area
+
+5. EUROPEAN UNION COMMON FISHERIES POLICY (CFP)
+------------------------------------------------
+The EU CFP provides the framework for managing EU fishing fleets and
+conserving fish stocks.
+
+Key principles:
+- Maximum Sustainable Yield (MSY): fishing at or below MSY levels for all stocks
+- Multi-Annual Plans (MAPs): multi-year management strategies for stock groups
+- Technical measures regulation (EU 2019/1241): gear specifications, area
+  closures, minimum conservation reference sizes (MCRS)
+- Landing obligation (discard ban): since 2019, all catches of regulated
+  species must be landed (with limited exceptions for high survival rates)
+
+Minimum Conservation Reference Sizes (MCRS) – Selected species:
+- Atlantic Cod (Gadus morhua): 35 cm total length
+- Atlantic Haddock (Melanogrammus aeglefinus): 30 cm total length
+- European Hake (Merluccius merluccius): 27 cm total length
+- Atlantic Herring (Clupea harengus): 18 cm total length
+- Nephrops (Nephrops norvegicus): 25 mm carapace length
+
+6. MARINE POLLUTION PREVENTION REGULATIONS
+-------------------------------------------
+MARPOL 73/78 (International Convention for the Prevention of Pollution from Ships):
+
+Annex I – Oil: prohibited discharge zones within 50 nautical miles of shore;
+maximum discharge rate 30 litres per nautical mile
+Annex II – Noxious liquid substances: tiered discharge requirements by category
+Annex IV – Sewage: no discharge within 3 nautical miles of nearest land
+Annex V – Garbage: plastic discharge prohibited in all sea areas
+Annex VI – Air pollution: 0.5% global sulphur cap on marine fuel (since 2020);
+0.1% in Emission Control Areas (ECAs) including Baltic Sea, North Sea,
+North American coast
+
+7. NATIONAL FISHERIES MANAGEMENT REGULATIONS
+---------------------------------------------
+Total Allowable Catches (TACs) and quotas are set annually based on
+scientific stock assessments and international negotiations.
+
+Licensing and access:
+- Fishing vessels must hold a valid fishing licence issued by flag state authority
+- Vessel Monitoring Systems (VMS): mandatory for vessels > 15 m overall length
+- Electronic logbooks: mandatory recording of all catch, effort, and
+  transshipment data for vessels > 10 m overall length
+
+Prohibited practices:
+- Dynamite or explosive fishing: prohibited under all circumstances
+- Poison/toxicant use: strictly prohibited
+- Bottom trawling: prohibited in designated deep-sea sensitive areas and
+  within 4 nautical miles of coast where depth < 100 m
+
+Seasonal restrictions:
+- Spawning closures: specific areas and periods designated annually
+- Shrimp fishery seasonal window: open June 1 – November 30 only
+- Lobster closed season: May 1 – August 31 in northern zones
